@@ -2,13 +2,13 @@
 Um programa que recebeu três valores numéricos e determinados eles podem formar um trângulo.
  
 
-	programa {{
+	programa {
 
 	
 	funcao inicio() {
 	
 
-	verdadeiro lado1, lado2, lado3
+	real lado1, lado2, lado3
 
 	escreva ("Digite a medida do primeiro lado:")
 	leia (lado1)
